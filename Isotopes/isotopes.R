@@ -166,11 +166,11 @@ ggsave("MW.pdf", device = "pdf", plot=crossplot, width=3.5, height=3, units="in"
 #Engel and Magner 2019 calculates the d18O of water vapor with an equation for temperature. 
 #Let's populate the equation with temperature data and plot it as a time series
 
-#import a wind speed data curated from 
+#import a weather station data  
 wnd <- read_csv("~/Documents/R/Itasca/wind/glff_data_20221013033928.csv", 
                 col_types = cols(dattim = col_datetime(format = "%Y%m%d%H%M")))
 
-#A data frame of wind speeds (in m/s). Can be loaded using load.ts if in the same format as wtr
+#A data frame including temperature. Can be loaded using load.ts if in the same format as wtr
 wnd <- wnd %>%
   rename(datetime="dattim", temp = "tmpf") %>% #rename columns 
   select(datetime, temp) %>% #select only column with wind speed (now a single variable)
