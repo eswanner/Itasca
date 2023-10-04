@@ -1,0 +1,143 @@
+ITCM5 Station Information and Metadata
+Format for this file is [Field Name: Value], with the semi-colon as the delimeter.
+This page can be saved by the user as a text file or copied and input into a spreadsheet using the semi-colon delimeter.
+
+Station ID: ITCM5
+Station Name: ITASCA
+Mesonet ID: RAWS
+Latitude: 47.2400
+Longitude: -95.1900
+Elevation (feet): 1480
+
+County: Clearwater
+State: MN
+Country: US
+Timezone: Central
+Local Region Category: Rural
+NWS Region: Central
+NWS CWA: FGF - Grand Forks
+NWS Zone: MN023 - South Clearwater
+NWS Fire Zone: FGF023
+GACC Region: EACC - Eastern
+SUBGACC Region: EA01 - NW MN
+
+Installed: 1998-04-01
+Calibrated: 2021-11-18
+First Date in MesoWest: 2002-10-24
+Last Metadata Update: 2022-02-10
+WIMS ID: 211401
+WMO or Additional ID: 70708652
+
+Data Provider 1: Bureau of Land Management
+Data Provider 2: Minnesota State Fire
+
+Land Use Category 1: 2.25% ; Developed, Open Space
+Land Use Category 2: 63.77% ; Deciduous Forest
+Land Use Category 3: 27.15% ; Evergreen Forest
+Land Use Category 4: 5.37% ; Shrub/Scrub
+Land Use Category 5: 0.88% ; Cultivated Crops
+Land Use Category 6: 0.59% ; Woody Wetlands
+
+Sensor Recording: ALTI (Altimeter)
+Name: Barometer
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 1.5 m
+Height AGL (meters): 1.5 m
+
+Sensor Recording: VOLT (Battery voltage)
+Name: -
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): -
+Height AGL (meters): -
+
+Sensor Recording: FM (Fuel Moisture)
+Name: Fuel Moisture Probe
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 0.3 m
+Height AGL (meters): 0.3 m
+
+Sensor Recording: FT (Fuel Temperature)
+Name: Fuel Temperature Probe
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 0.3 m
+Height AGL (meters): 0.3 m
+
+Sensor Recording: PREC (Precipitation accumulated)
+Name: Tipping Bucket Precipitation Gauge
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): -
+Height AGL (meters): -
+
+Sensor Recording: RELH (Relative Humidity)
+Name: Temperature and Relative Humidity Sensor
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 2 m
+Height AGL (meters): 2 m
+
+Sensor Recording: SINT (Snow interval)
+Name: -
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): -
+Height AGL (meters): -
+
+Sensor Recording: SOLR (Solar Radiation)
+Name: Pyranometer
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 2 m
+Height AGL (meters): 2 m
+
+Sensor Recording: TMPF (Temperature)
+Name: Temperature and Relative Humidity Sensor
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 2 m
+Height AGL (meters): 2 m
+
+Sensor Recording: TLKE (Water Temperature)
+Name: -
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): -
+Height AGL (meters): -
+
+Sensor Recording: DRCT (Wind Direction)
+Name: Wind Vane
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 6.1 m
+Height AGL (meters): 6.1 m
+
+Sensor Recording: GUST (Wind Gust)
+Name: Three Cup Anemometer
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 6.1 m
+Height AGL (meters): 6.1 m
+
+Sensor Recording: SKNT (Wind Speed)
+Name: Three Cup Anemometer
+Brand: -
+Model: -
+Install Date: -
+Height from Station Base (meters): 6.1 m
+Height AGL (meters): 6.1 m
